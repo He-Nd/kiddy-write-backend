@@ -2,6 +2,8 @@
 
 KiddyWrite is a responsive web application that helps young kids learn how to write English alphabets and improve their handwriting by using a tablet or a stylus following the [gamification](https://en.wikipedia.org/wiki/Gamification) concept.
 
+### :point_right: [Click Here for Live Demo](https://he-nd.github.io/kiddy-write/) :point_left:
+
 ## Installation
 
  
